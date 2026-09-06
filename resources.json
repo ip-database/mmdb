@@ -1,0 +1,28 @@
+{
+  "dbip-asn-ipv4.mmdb": [
+    "dbip-asn-ipv4.mmdb.gz"
+  ],
+  "dbip-asn-ipv6.mmdb": [
+    "dbip-asn-ipv6.mmdb.gz"
+  ],
+  "dbip-city-ipv4.mmdb": [
+    "dbip-city-ipv4.mmdb.gz.part-000",
+    "dbip-city-ipv4.mmdb.gz.part-001"
+  ],
+  "dbip-city-ipv6.mmdb": [
+    "dbip-city-ipv6.mmdb.gz.part-000",
+    "dbip-city-ipv6.mmdb.gz.part-001"
+  ],
+  "geolite2-asn-ipv4.mmdb": [
+    "geolite2-asn-ipv4.mmdb.gz"
+  ],
+  "geolite2-asn-ipv6.mmdb": [
+    "geolite2-asn-ipv6.mmdb.gz"
+  ],
+  "geolite2-city-ipv4.mmdb": [
+    "geolite2-city-ipv4.mmdb.gz"
+  ],
+  "geolite2-city-ipv6.mmdb": [
+    "geolite2-city-ipv6.mmdb.gz"
+  ]
+}
